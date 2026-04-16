@@ -1,0 +1,18 @@
+[
+    {
+      "id": "USCIS_STEMOPT_90DAY",
+      "source": "USCIS_STEMOPT.pdf",
+      "text": "Students may apply for the STEM OPT extension up to 90 days before the end date of their current OPT."
+    },
+    {
+      "id": "SEVP_STEM_DEGREE",
+      "source": "SEVP_Guidelines.pdf",
+      "text": "To qualify for STEM OPT, the student must have completed a degree in an eligible STEM field at a SEVP-certified school."
+    },
+    {
+      "id": "USCIS_CPT_TIMING",
+      "source": "USCIS_CPT_Factsheet.pdf",
+      "text": "CPT must be authorized before the student starts the employment and may be part-time or full-time depending on the program."
+    }
+  ]
+  
